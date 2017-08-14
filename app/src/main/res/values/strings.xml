@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_snap_photo">SnapPhotoActivity</string>
+    <string name="title_activity_test_recycle_view">TestRecycleViewActivity</string>
+
+    <!--出行助手-->
+    <string name="placeholder">--</string>
+
+</resources>
